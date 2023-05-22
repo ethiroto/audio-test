@@ -78,3 +78,7 @@ body {
 #bass4Button {
   background-color: #d9d2e9;
 }
+
+#instructions{
+  grid-column: 1 / span 2;
+}
